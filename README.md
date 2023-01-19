@@ -1,4 +1,4 @@
-# hello-world- updated on github
+# hello-world- updated on github using pull
 Hello World repository for Git tutorial
 This is an example repository for the Git tutoial on https://www.w3schools.com
 
